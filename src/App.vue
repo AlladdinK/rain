@@ -52,8 +52,8 @@ rainCap();
   &__item {
     position: fixed;
     img {
-      width: 5px;
-      height: 5px;
+      width: 10px;
+      height: 10px;
     }
   }
 }
